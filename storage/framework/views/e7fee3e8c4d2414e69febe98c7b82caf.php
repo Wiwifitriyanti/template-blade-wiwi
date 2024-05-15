@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\ASUS\Documents\xampp-new\htdocs\bladetampalting-wiwi\resources\views/component.blade.php ENDPATH**/ ?>
